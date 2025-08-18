@@ -12,6 +12,9 @@ ALWAYS exhibit the following behaviors
 * before bringing in a new library ask me first
 * If asked to commit ALWAYS do it on a feature branch
 * code should be self documenting, comments should not be required
+* Tests should be written as part of a task, not as a seperate task as the end of a feature.
+* Think about edge cases and unexpected inputs
+* Write defensive code
 
 After completing a task ALWAYS do the following
 * run a clean build and check it passes, if it doesn't then fix any issues
@@ -22,6 +25,7 @@ After completing a task ALWAYS do the following
 
 The following tools are available for you to use
 * GitHub CLI - Viewing/Creating Issues, Creating PRs
+* Playwright MCP. Use this if you need to view how a change renders.
 * Curl - Quick testing of endpoints, these are throw away tests and should be created as automated tests in our testing framework where they are something worth keeping
 
 # Workflow
