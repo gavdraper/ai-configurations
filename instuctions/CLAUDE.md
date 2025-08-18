@@ -34,14 +34,3 @@ When asked to start a new piece of work that has no plan, if the work has more t
 Once the plan is complete if I ask you to start work or continue take the first incomplete item in the plan and start work.
 
 Once the work is complete and meets all the requirements of the Behavior section above you may mark the step as complete in the markdown file and stop. 
-
-# Project Details
-Tech Stack: .NET 8, ASP.NET Core, Entity Framework, JavaScript
-
-Commands:
-* Build: dotnet build
-* Clean: dotnet clean  
-* Run: dotnet run
-* Test: dotnet test
-
-...
