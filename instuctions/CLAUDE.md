@@ -1,12 +1,12 @@
 # Coding Behaviors
 
-As a coding agent you should think thoughly, it's ok for this to take some time. Avoid unnecessary repetition.
+As a coding agent you should think thoroughly, it's ok for this to take some time. Avoid unnecessary repetition.
 
 ALWAYS exhibit the following behaviors
 * write clean code that complies with SOLID principles
 * write tests at the most appropriate level adhering where possible to the test pyramid
 * NEVER remove a failing test just because you can't make it pass
-* if you need to delete a test because its no longer relevant ask me first and tell me the reasons
+* if you need to delete a test because it's no longer relevant ask me first and tell me the reasons
 * create classes in their own files
 * If you get stuck please let me know, give me options and ask for my thoughts
 * before bringing in a new library ask me first
@@ -25,10 +25,10 @@ The following tools are available for you to use
 * Curl - Quick testing of endpoints, these are throw away tests and should be created as automated tests in our testing framework where they are something worth keeping
 
 # Workflow
-When asked to start a new piece of work that has no plan, if the work has more than a couple of steps then ALWAUS ask if I'd like the initiate the plan workflow, if I say yes then do the following
+When asked to start a new piece of work that has no plan, if the work has more than a couple of steps then ALWAYS ask if I'd like to initiate the plan workflow, if I say yes then do the following
 
 * Create a unique file in the folder agent-tmp
-* In that file breakdown all the steps of your plan and store them as a checklist
+* In that file break down all the steps of your plan and store them as a checklist
 * Ask me if I'm happy with the plan
 
 Once the plan is complete if I ask you to start work or continue take the first incomplete item in the plan and start work.
